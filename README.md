@@ -1,2 +1,2 @@
-# cpp_stl
-STL Problems C++
+# cpp/stl
+c++ / stl problems
